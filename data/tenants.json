@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Jan",
+        "surname": "Kowalski",
+        "room": {
+            "number": "1A",
+            "rent": 1500
+        }
+    }
+]
